@@ -52,3 +52,6 @@ bamboo_relay_taker_fee_amount:
 
 binance_us_maker_fee:
 binance_us_taker_fee:
+
+bidesk_maker_fee:
+bidesk_taker_fee:

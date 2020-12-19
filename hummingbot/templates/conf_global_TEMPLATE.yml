@@ -60,6 +60,9 @@ okex_api_key: null
 okex_secret_key: null
 okex_passphrase: null
 
+bidesk_api_key: null
+bidesk_secret_key: null
+
 celo_address: null
 celo_password: null
 

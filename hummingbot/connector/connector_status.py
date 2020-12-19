@@ -15,7 +15,8 @@ connector_status = {
     'kucoin': 'green',
     'liquid': 'green',
     'loopring': 'green',
-    'okex': 'red'
+    'okex': 'red',
+    'bidesk': 'red'
 }
 
 warning_messages = {
